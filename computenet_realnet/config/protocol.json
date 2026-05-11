@@ -1,0 +1,11 @@
+{
+  "network": "ComputeNet",
+  "coin": "COMPUTE",
+  "version": "0.1.0-realnet-alpha",
+  "supply_cap": 21000000,
+  "premine": 0,
+  "ico": false,
+  "founder_allocation": 0,
+  "launch_mode": "fair_public_genesis",
+  "mainnet_ready": false
+}
